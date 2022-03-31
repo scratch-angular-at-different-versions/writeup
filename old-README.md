@@ -1,6 +1,9 @@
 # Angular at different cli versions
 ## (Lighthouse score for out of the box) Lighthouse 9, chrome version 99
 
+( note: these were generated on an iMac (24-inch, M1, 2021) )
+using an incognito window.
+
 ## 10.1.0-a.png
 <img width="1484" alt="10 1 0-a" src="https://user-images.githubusercontent.com/11463275/160943201-52c9cf9e-3f01-4e79-a977-cb5b1ac79b8e.png">
 
