@@ -16,9 +16,9 @@ Performance: 84, Accessibility: 94, Best Practices: 93, SEO: 92, Progressive Web
 [report](https://storage.googleapis.com/lighthouse-infrastructure.appspot.com/reports/1649036845233-12662.report.html)
 
 ## 11.2.17.png
-Performance: 100, Accessibility: 97, Best Practices: 100, SEO: 92, Progressive Web App: 30<br/>
-[pull request](https://github.com/scratch-angular-at-different-versions/scratch-angular-eleven-two-seventeen/pull/5) / 
-[report](https://storage.googleapis.com/lighthouse-infrastructure.appspot.com/reports/1649035512635-1666.report.html)
+Performance: 85, Accessibility: 94, Best Practices: 100, SEO: 92, Progressive Web App: 30<br/>
+[pull request](https://github.com/scratch-angular-at-different-versions/scratch-angular-eleven-two-seventeen/pull/6) / 
+[report](https://storage.googleapis.com/lighthouse-infrastructure.appspot.com/reports/1649042753677-8285.report.html)
 
 ## 13.3.1.png
 Performance: 100, Accessibility: 97, Best Practices: 100, SEO: 92, Progressive Web App: 30<br/>
